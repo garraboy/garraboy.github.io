@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800&family=Inter:wght@400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,600;0,700;1,400&family=Reenie+Beanie&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", "Cairo", ui-sans-serif, system-ui, sans-serif;
+  --font-display: "Playfair Display", "Cairo", serif;
+  --font-handwritten: "Reenie Beanie", "Cairo", cursive;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #faf8f5;
+  color: #1c1917;
+  overflow-x: hidden;
+}
+
+/* Elegant custom scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #f5f2eb;
+}
+::-webkit-scrollbar-thumb {
+  background: #d6cfc4;
+  border-radius: 4px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #bfae99;
+}

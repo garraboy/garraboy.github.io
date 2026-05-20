@@ -1,0 +1,6 @@
+{
+  "name": "Hinata Family Photo",
+  "description": "An interactive, professionally designed family photo folder and memory storyteller featuring custom layouts (Masonry Collage, Vintage Polaroid, Chronological Milestones, and Stage Carousel) with AI-powered nostalgic captioning and story generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
