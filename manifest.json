@@ -1,0 +1,27 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "hinata family photo",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "Hinata AI",
+  "start_url": "https://hinata-family-photo-655565178316.europe-west2.run.app",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://hinata-family-photo-655565178316.europe-west2.run.app/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "description": "An app for creating professional family photo albums With AI",
+  "lang": "en"
+}
