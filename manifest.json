@@ -1,5 +1,5 @@
 {
-  "background_color": "#ffffff",
+  "background_color": "#1D3557",
   "dir": "ltr",
   "display": "standalone",
   "name": "hinata family photo",
@@ -7,16 +7,11 @@
   "scope": "/",
   "short_name": "Hinata AI",
   "start_url": "https://garraboy.github.io/",
-  "theme_color": "#ffffff",
-"icons": [
+  "theme_color": "#1D3557",
+  "icons": [
     {
       "src": "512_new.png",
       "sizes": "512x512",
-      "type": "image/png"
-    },
-    {
-    "src": "512_new.png",
-      "sizes": "1024x1024",
       "type": "image/png"
     }
   ],
