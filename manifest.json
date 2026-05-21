@@ -1,13 +1,14 @@
 {
-  "background_color": "#1D3557",
-  "dir": "ltr",
-  "display": "standalone",
   "name": "hinata family photo",
-  "orientation": "any",
-  "scope": "/",
   "short_name": "Hinata AI",
   "start_url": "https://garraboy.github.io/",
+  "display": "standalone",
+  "background_color": "#1D3557",
   "theme_color": "#1D3557",
+  "orientation": "any",
+  "dir": "ltr",
+  "lang": "en",
+  "scope": "/",
   "icons": [
     {
       "src": "512_new.png",
@@ -15,6 +16,5 @@
       "type": "image/png"
     }
   ],
-  "description": "An app for creating professional family photo albums With AI",
-  "lang": "en"
+  "description": "An app for creating professional family photo albums With AI"
 }
