@@ -6,16 +6,16 @@
   "orientation": "any",
   "scope": "/",
   "short_name": "Hinata AI",
-  "start_url": "https://hinata-family-photo-655565178316.europe-west2.run.app",
+  "start_url": "https://garraboy.github.io/",
   "theme_color": "#ffffff",
 "icons": [
     {
-      "src": "512.png",
+      "src": "512_new.png",
       "sizes": "512x512",
       "type": "image/png"
     },
     {
-     "src": "512.png",
+    "src": "512_new.png",
       "sizes": "1024x1024",
       "type": "image/png"
     }
