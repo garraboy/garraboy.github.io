@@ -8,19 +8,19 @@
   "short_name": "Hinata AI",
   "start_url": "https://hinata-family-photo-655565178316.europe-west2.run.app",
   "theme_color": "#ffffff",
-  "icons": [
+"icons": [
     {
-      "src": "LargeTile.scale-100.png",
+      "src": "icons/LargeTile.scale-100.png",
       "sizes": "150x150",
       "type": "image/png"
     },
     {
-      "src": "LargeTile.scale-150.png",
+      "src": "icons/LargeTile.scale-150.png",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "LargeTile.scale-400.png",
+      "src": "icons/LargeTile.scale-400.png",
       "sizes": "512x512",
       "type": "image/png"
     }
